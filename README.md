@@ -5,8 +5,10 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 It is the methodical application of engineering principles to the design, development, testing, deployment, and maintenance of software systems by using structured methodologies and tools to create software that is reliable, efficient, scalable, and easy to maintain.
 Importance of software engineering in the technology industry includes: 
+
 i. It is the foundation of modern technology since software drives almost all the existing technological innovations like mobile apps and also in industries like healthcare.
 ii. It ensures that applications meet high standards of functionality, performance, and security thus reducing the risk of system failures or vulnerabilities, which is critical in areas like banking or critical infrastructure.
 iii. Software engineering practices ensure that software can grow with user needs while remaining efficient.
@@ -14,6 +16,7 @@ iv. It enables rapid innovation by developing tools and platforms that help solv
 v.  Software engineering minimizes errors and rework through structured development and testing processes, saving time and money for businesses.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 i. The Emergence of High-Level Programming Languages (1950s–1960s)
  The advent of high-level programming languages like FORTRAN (1957) and COBOL (1959) revolutionized software development by allowing programmers to write more abstract, human-readable code paving the way for faster development and wider adoption of computing.
 
@@ -25,6 +28,7 @@ i. The Emergence of High-Level Programming Languages (1950s–1960s)
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 1. Requirement Analysis: Stakeholders gather and document the functional and non-functional requirements of the software. This phase ensures a clear understanding of what the software is expected to do.
 2. System Design: Based on the requirements, developers create a blueprint of the system architecture, user interface, and data flow. This serves as a guide for the development phase.
 3. Implementation (Coding): Developers write the actual code based on the design specifications. This is where the software is built using programming languages and tools.
@@ -33,6 +37,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 6. Maintenance: After deployment, the software is monitored for performance and errors. Regular updates and improvements are made to keep it functional and relevant.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 i. Waterfall methodology is Rigid and Inflexible while Agile methodology is 	Highly Adaptable
 ii. Waterfall methodology approach is Linear and Sequential while Agile methodology approach is Iterative and Incremental
 iii. In Waterfall methodology Feedback is	gathered after the product is built while in  Agile methodology feedback is Continuously integrated during development
@@ -41,6 +46,7 @@ v. Waterfall methodology is suitable for Fixed-scope projects,i.e.  predictable 
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 1. Software Developer: Writes, debugs, and maintains the code that forms the backbone of software applications.
 •	Responsibilities:	->Develops software solutions based on design specifications.
                    	->Collaborates with designers, analysts, and other developers to implement features.
@@ -64,6 +70,7 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 1. Integrated Development Environments (IDEs): IDEs combine various development tools into a single user-friendly interface, streamlining the coding process. They include a code editor, debugger, compiler, and build automation tools hence enhancing productivity by providing features like syntax highlighting, code completion, and error detection. They allow developers to focus on logic rather than manual tasks like configuring build environments.
 Examples:
 •	Visual Studio: Offers support for multiple languages and frameworks, with powerful debugging and collaboration features.
@@ -97,6 +104,7 @@ What are some common challenges faced by software engineers? Provide strategies 
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
 1. Unit Testing: Focuses on testing individual components or units of code (e.g., functions, methods, or classes) in isolation. Its purpose is to verify that each unit performs as expected.
 •	Importance: ->Detects bugs early in the development process.
               ->Makes debugging easier since issues are isolated to specific units.
@@ -119,7 +127,8 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-	Prompt engineering is the practice of designing and optimizing input prompts to effectively interact with and guide AI models. It involves crafting instructions, questions, or context in a way that encourages the AI to produce accurate, relevant, and high-quality outputs.
+
+Prompt engineering is the practice of designing and optimizing input prompts to effectively interact with and guide AI models. It involves crafting instructions, questions, or context in a way that encourages the AI to produce accurate, relevant, and high-quality outputs.
 Importance:
 1.	Maximizes AI's Potential: Well-crafted prompts unlock the full capabilities of an AI model by providing clear and specific guidance, resulting in better responses.
 2.	Improves Accuracy: Precise prompts help eliminate ambiguity, reducing the chances of generating irrelevant or misleading information.
@@ -129,6 +138,7 @@ Importance:
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 Vague Prompt:
 "Which island is found in the ocean."
 Improved Prompt:
